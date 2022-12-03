@@ -1,0 +1,3 @@
+- Você se considera uma pessoa fácil de fazer amizade?
+- Qual foi a sua maior dificuldade como desenvolvedor?
+- O que te impede de criar uma startup ou uma comunidade?

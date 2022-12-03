@@ -1,1 +1,7 @@
-{}
+{
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "attachmentFolderPath": "Interpretation's Story"
+}
