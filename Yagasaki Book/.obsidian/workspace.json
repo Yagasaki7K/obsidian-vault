@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "4815f471ce31911b",
+    "type": "split",
+    "children": [
+      {
+        "id": "adab2d9cf1aadf15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8387c140399a794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e88c2eded1fb2c91",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e13c06146d9ce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "988943713ac0db0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a18ceb0143903ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a371ffadb45604ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8b65cee01cf2268",
+    "type": "split",
+    "children": [
+      {
+        "id": "f95b07c2f9f57b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78602e17e61fd578",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/Interview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b556947e51112f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Interview.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1878184a4d44fa82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9b5fcfa88cff821",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/Interview.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e8387c140399a794",
+  "lastOpenFiles": [
+    "Interpretation's Story/Ficha Individual/Ficha - Himura Katsuragi.md",
+    "Interpretation's Story/Ficha Individual/Ficha - Vartan Katsuragi.md",
+    "Interpretation's Story/Himura Katsuragi.md",
+    "Interpretation's Story/Contos Pendentes.md",
+    "2022-12-03.md",
+    "Kalify Inc/Kalify Projects.md",
+    "Personal/Interview.md",
+    "Interpretation's Story/Project 2501.md",
+    "Interpretation's Story/Mike Flood.md",
+    "Interpretation's Story/Howard Pentell.md"
+  ]
+}

@@ -1,0 +1,19 @@
+[Ficha Individual](obsidian://open?vault=Yagasaki%20Book&file=Interpretation's%20Story%2FHimura%20Katsuragi)
+
+_“Honra não é a única coisa que vale a pena proteger, mas algumas vezes é tudo o que te resta.”_
+
+**# Relatório de 2018** Criado na cidade de Kyoto e posteriormente em Tokyo, Himura "Yagasaki" Katsuragi mistura os limites entre a modernidade e tradicional. Transformado em um combatente desde o falecimento da sua família, ele encontrou tradicionalidade e ordem quando havia se tornado um Samurai (1880). Seu foco e determinação permitiram que Himura subisse rápido os níveis no Taekwondo. Esta aptidão, assim como sua dedicação no estudo dos idiomas, foi de grande ajuda quando se mudou para Tóquio para estudar na Academia de Polícia Metropolitana (Tokyo MPD).
+
+Enquanto trabalhava como polícia, Himura conseguiu o 3º dan em Muay Thai e o 5º dan em Taekwondo, garantindo a ela uma vaga na divisão de segurança do TMPD. Ele se desentendeu com seus superiores ao não atingir o grau de serenidade necessário para progredir como Tenente. Depois de encarar a suspensão por diversos surtos de violência em serviço, ela decidiu entrar para o setor privado como guarda-costas. Himura trabalhou exclusivamente para Masayuki Yahata em Fukuoka antes de sua morte a levar a restabelecer contato com Yumiko “Hibana” Imagawa.
+
+**# LAUDO PSICOLÓGICO** Tem um mistério escondido por trás da máscara da Especialista Himura "Yagasaki" Katsuragi. Seu charme modesto pode ser encantador, tornando-o a companhia perfeita para negócios ou reuniões sociais. Entretanto, quando seu empregador é ameaçado, a “máscara cai”, o que me faz acreditar que devo ter cuidado ao tentar me aproximar. […]
+
+As respostas de Yagasaki às minhas perguntas do histórico familiar foram educadas, e arrisco dizer que... ensaiadas, não temos como saber a autenticidade dessas informações. Ainda estou tentando determinar se sua dedicação aos ensinamentos do bushido foi encorajada por sua relação com o pai. […] O perfil de Yagasaki é caracterizado por um alto nível de autocontrole, independência e extroversão. Seu desempenho como guarda-costas mostra que ele pode manter a calma em situações caóticas e que é indiscutivelmente alguém em quem você pode confiar sua vida.
+
+Sua reação à morte de Yahata não combina com seu profissionalismo e isso me preocupa. Yagasaki se recusa a responder por seu nome até que descubra a verdade por trás da morte de Masayuki Yahata. Ela adotou o nome Yagasaki, que significa “Até que recupere minha honra, sou pura vingança”, servindo de lembrete contínuo de seu débito. A morte dele passou de uma falha vocacional para um lamento pessoal. Proferindo o nome dele com seu último suspiro, Yahata parece ter deixado um fardo sobre ele. Posso vê-la lutando para lidar com isso. […]
+
+[…] O rosto de Yagasaki se iluminou quando falamos sobre tradições antigas, mas acho que a ofendi quando sugeri que fôssemos algo ultrapassado. “Tradição e honra são coisas do passado que mantém nós vivos e separam os animais dos inteligentes” Seu guarda-roupa é extremamente meticuloso, cada item escolhido por sua forma e função. Eu diria que seu estilo ousado distrai o olhar enquanto ele esconde uma série de armas, sendo a raiva a mais perigosa delas. Acho que estarei mais seguro da próxima vez perguntando sobre poesia e a arte da guerra. […]
+
+[…] Eu o observei treinando. Embora seus movimentos sejam precisos, sua fluidez é atrapalhada pela imprevisibilidade de sua raiva engatilhada depois de muita quietação. Hibana, uma combatente do projeto responde pela habilidade e credibilidade de Yagasaki, mas embora tenha obtido minha confiança, os métodos de Yagasaki exigem avaliação mais precisa. […]
+
+-- Dr. Harishva "Harry" Pandey, Diretor do Projeto Rainbow

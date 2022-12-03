@@ -1,0 +1,23 @@
+A vida e a morte são duas crianças que brincam em seus quartos, certo dia, a vida decidiu criar o homem mais belo de todos e a morte aceitou esse desafio, a vida a desenhou, moldou e suspirou seu ar para dentro dele, a morte que não conseguia dar vida a nada, ficou com inveja, mas nada disse. Quando a vida foi dormir, a morte com inveja de tamanha beleza que o homem transmitia, deu um pequeno sopro no coração daquela criatura.
+
+A vida sequer reparou sobre o mal que a morte fez aquela criatura e deu a vida por completo ao ser e deixou andando junto com os demais. A criatura nasceu, cresceu e havia algo diferente nela que ninguém reparava.
+
+O homem nasceu sem o dom de se sentir triste. Ele não era um ser completamente feliz ou super-alegre, ele apenas um ser mótono que se sentia bem em várias ocasiões, mas nunca triste em várias, ele não tinha o dom de chorar quando se machucasse, não havia o dom de se sentir triste quando um amigo falecia ou quando um amigo vinha chorar por conta de algum problema.
+
+Ele não se sentia culpado por não sentir essa forma de tristeza, mas as pessoas ao seu redor começavam a notar isso e o chamavam de frio, um ser desumano, alguém sem coração, muitos se afastavam por conta dessa frieza que carregava.
+
+Certo dia, ele havia se apaixonado por uma mulher, seu nome era Diana, uma mulher magnifíca, maravilhosa e linda, onde passava atraía olhares de homens, sua beleza era encantadora e seus olhos brilhavam como diamante quando a lua os tocava.
+
+Ele, um homem lindo, esbelto e com dinheiro, havia se apaixonado pela Diana e ela, deixou ser apaixonada. O homem comprava tudo que ela quisesse, deixava ela tomar conta de sua vida, fazia a mulher ser quem ela merecia ser, ele conheceu o pior lado dela e mesmo assim não a negligenciou, era realmente amor. Ele gostava de ajudar ela, gostava de estar com ela e gostava de fazer parte da sua vida ao lado dela, basicamente, mesmo nos piores dias, eram os melhores dias da vida dele. Porém, ela havia ficado doente tão de repente e isso o preocupou. Era a morte fazendo testes com a tal criatura, quando ela partiu para outra vida, ele sofreu em silêncio pela primeira vez.
+
+Aos olhos dos demais, ele não amava ela, mas aquilo ardia, ele se punia de todas as maneiras possíveis para sentir a tristeza, sentir a dor e ter a capacidade de chorar, mas queimava tanto aquele ódio que em um ato de desespero em uma noite, sobre o olhar da lua em um cume distante da cidade e sozinho, ele derrubou a primeira lágrima sobre o solo e após isso chorou durante várias horas até o amanhecer, quando o sol tocou sobre o seu corpo, ali já não havia mais vida, a maldição havia sido quebrada dentro dele e com isso veio a falecer em tristeza.
+
+Com o passar do tempo, as pessoas não encontravam o homem e as buscas começaram, encontraram suas vestimentas e seu crânio ali próximo, o crânio havia se tornado completamente de esmeralda e com os olhos em dourado com um líquido prateado dentro.
+
+As pessoas disputavam com quem ficaria aquela raridade, chegaram a achar que ele era um ser divino, quando decidiram dividir, arrancaram os dois olhos e o crânio se esfarelou, os olhos dourados não faziam efeito sobrenatural sobre quem segurava e aquilo havia se tornado uma joia, os tempos passaram e os olhos foram separados de seu destino.
+
+Um ficou com uma jovem moça que pegou tanto afeto pelo material que decidiu guardá-la para o resto da vida, o amuleto se quer fez mal a garota. Quando ela faleceu a família deixou o objeto junto com ela e fora perdido com o tempo junto de seu túmulo.
+
+Já o outro olho foi transformado em um pingente que era passado de geração em geração, mas poucos sabiam que aquilo era um objeto sobrenatural. Howard, um homem rico e que vendia materiais antigos comprou-os de tal família rica durante um momento de crise econômica. Já habituado com monumentos e artigos antigos, ele sabia que ali havia algo que transmitia inpureza, o pingente carregava consigo toda a dor e sofrimento que a morte podia dar ao ser humano e aquilo podia ser usado a favor do portador, se assim quisesse.
+
+Para alguns esse pingente é conhecido como Lágrima do Diabo, sua maldição envolvia aqueles que tinha o mal no coração, aqueles que eram os favoritos da morte, qualquer um de mal coração que o carregasse, sempre teria pesadelos, sempre veria a tristeza do mundo e de nada adiantaria fazer, aquele pingente se tornou uma maldição, um olhar para o inferno e a lenda a transformou em Lágrimas do Diabo.

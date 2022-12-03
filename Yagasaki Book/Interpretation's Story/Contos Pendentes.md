@@ -1,0 +1,3 @@
+-   Garota que estava no ensino médio, tem problemas, internada, poderes
+-   História de um garoto que sempre acreditou no Rei de Amarelo
+-   História de uma menina que era depressiva, mas amava o Cthulhu
