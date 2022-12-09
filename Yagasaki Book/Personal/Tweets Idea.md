@@ -1,3 +1,10 @@
 - Você se considera uma pessoa fácil de fazer amizade?
 - Qual foi a sua maior dificuldade como desenvolvedor?
 - O que te impede de criar uma startup ou uma comunidade?
+- Convide um desenvolvedor para uma festa com cinco palavras ou menos
+- Melhor maneira de criar um site pessoal hoje em dia?
+- Para todos os desenvolvedores Javascript que não migraram para o Typescript. Por quê não?
+- Programação não é difícil. Consistência é.
+- Comunidade de Desenvolvedores >>> Mentoria 1:1, concordam?
+- Frameworks mudam toda hora, fundamentos não.
+- Em UMA palavra. Por que você programa?
