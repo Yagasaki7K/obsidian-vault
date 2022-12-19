@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Tweets Idea.md",
+                "file": "Personal/Taekwondo Conquests.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Tweets Idea.md",
+                "file": "Personal/Taekwondo Conquests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Tweets Idea.md",
+                "file": "Personal/Taekwondo Conquests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Tweets Idea.md"
+                "file": "Personal/Taekwondo Conquests.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "023033a914b0a443",
   "lastOpenFiles": [
-    "Personal/New Article - Oh My Zsh no Git Bash.md",
     "Personal/Tweets Idea.md",
+    "Personal/New Article - Oh My Zsh no Git Bash.md",
     "Personal/Random Typing.md",
     "Personal/Taekwondo Conquests.md",
     "Personal/Interview.md",
